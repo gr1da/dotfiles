@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.enableExperiments": false,
+    "extensions.autoCheckUpdates": false,
+    "update.mode": "none",
+    "editor.fontFamily": "'Mononoki Nerd Font Mono', 'monospace', monospace",
+    "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.defaultProfile.linux": "fish"
+}
