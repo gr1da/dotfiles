@@ -1,0 +1,6 @@
+[Added Associations]
+image/x-portable-anymap=firefox.desktop;
+inode/directory=pcmanfm.desktop;
+
+[Default Applications]
+inode/directory=pcmanfm.desktop
