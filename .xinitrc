@@ -43,12 +43,6 @@ xsetroot -cursor_name left_ptr
 picom &
 nitrogen --restore &
 
-#pipewire &
-#pipewire-pulse &
-#wireplumber &
+pulseaudio &
 
-user-s6-rc-start
-
-ln -sf {app/com.discordapp.Discord,$XDG_RUNTIME_DIR}/discord-ipc-0
-
-exec dbus-launch --exit-with-session xmonad
+dbus-launch --exit-with-session xmonad
